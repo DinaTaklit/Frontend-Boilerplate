@@ -1,4 +1,4 @@
-# Sila Frontend
+# Full Stack Engineer Assessment - Sila Insights, Frontend Application
 
 This is the frontend application of Full Stack Engineer Assessment - Sila Insights.
 
