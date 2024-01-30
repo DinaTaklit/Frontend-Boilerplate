@@ -1,6 +1,6 @@
-# Full Stack Engineer Assessment - Sila Insights, Frontend Application
+# Frontend Boilerplate
 
-This is the frontend application of Full Stack Engineer Assessment - Sila Insights.
+This is the frontend Boilerplate.
 
 ## Table of Contents
 
@@ -33,7 +33,7 @@ Sila Frontend is the user interface for Full Stack Engineer Assessment - Sila In
 The project follows a modular structure to organize code efficiently. Below is an overview of the key directories:
 
 ```plaintext
-Sila_Frontend/
+Frontend/
 |-- sec/
 |   |-- components/
 |   |   |-- (shared UI components)
@@ -120,10 +120,10 @@ Clone the repository and install dependencies:
 
 ```bash
 # Clone the repository or jus unzip the file
-git clone https://github.com/DinaTaklit/Sila_Frontend.git
+git clone https://github.com/DinaTaklit/Frontend.git
 
 # Navigate to the project folder
-cd Sila_Frontend
+cd Frontend
 
 # Install dependencies
 npm install
