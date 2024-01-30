@@ -19,7 +19,7 @@ This is the frontend Boilerplate.
 
 ## Introduction
 
-Sila Frontend is the user interface for Full Stack Engineer Assessment - Sila Insights Project. It provides a user-friendly interface to interact with the backend services.
+This is react frontend boilerplate.
 
 ## Built With
 
